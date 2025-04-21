@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore model files
+*.pkl
+
+# VSCode settings
+.vscode/
